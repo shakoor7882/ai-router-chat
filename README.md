@@ -5,14 +5,11 @@ An AI chat app that utilizes advanced LLM model routing powered by [Not Diamond]
 Includes an "Arena mode" where you can dynamically improve your model router.
 
 ![AI Router Chat](/public/readme.png)
-
-## Demo
-
-See the latest demo [here](https://x.com/mckaywrigley/status/1818717706037977182).
+.
 
 ## Sponsor
 
-If you find AI Router Chat useful, please consider [sponsoring](https://github.com/sponsors/mckaywrigley) us to support my open-source work :)
+If you find AI Router Chat useful, please consider [sponsoring](https://github.com/shakoor7882) us to support my open-source work :)
 
 ## Requirements
 
