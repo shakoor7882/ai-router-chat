@@ -22,7 +22,7 @@ You'll also need API keys from each LLM provider (OpenAI, Anthropic, Groq, Perpl
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/mckaywrigley/ai-router-chat.git
+git clone https://github.com/shakoor7882/ai-router-chat.git
 ```
 
 **2. Provide API Keys**
